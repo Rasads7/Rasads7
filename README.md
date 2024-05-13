@@ -1,6 +1,6 @@
 ### Olá! Sou Pedro Sérgio
 
-- 🔭 Atualmente estou trabalhando com Javascript
+- 🔭 Trabalhando com Javascript
 - 🌱 Estudando frequentemente Java e Python
 - ✉️ Entre em contato: pedroccpessoal@gmail.com
 
