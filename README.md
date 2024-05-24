@@ -1,7 +1,8 @@
 ### Olá! Sou Rafael Silva
 
-- 🔭 Trabalhando com Javascript
-- 🌱 Estudando frequentemente Java e Python
+- 🔭 Desenvolvendo em Javascript
+- 🌱 Estudando atualmente: Java e Python
+- Interesse em estudar: Pandas (especialização em Python), Power BI, Ruby
 - ✉️ Entre em contato: rafasilva1807@gmail.com
 
 <div style="display: inline_block"><br>
