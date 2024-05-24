@@ -10,7 +10,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://icon-icons.com/pt/icone/java-original-a-marca-logo/146459">
+  <img align="center" alt="Rafa-Boot" height="30" width="80" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Rafa-Npm" height="30" width="40" src="https://icon-icons.com/pt/icone/java-original-a-marca-logo/146459">
 </div>
   
   ##
