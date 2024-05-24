@@ -11,8 +11,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Rafa-Boot" height="30" width="80" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Rafa-Npm" height="30" width="40" src="![image](https://github.com/Rasads7/Rasads7/assets/131405567/ab3c80ac-5a15-4a79-90f3-a7f5e639794f)
-">
+  <img align="center" alt="Rafa-Npm" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
   
   ##
